@@ -16,3 +16,17 @@ Answer: So at first I wanted to use a scatterplot but then i thought that was si
 Question: Does lunch type (standard vs free/reduced) relate to outcomes?
 
 Answer:  So yes it appears that after finding the mean of the three groups and then grouping it by free/reduces or standard lunches that there is a difference in scores. From it appears that students with standard lunch cost typical scored around 70 meanwhile students on free/reduced lunch score around 62. To me this tell us a diffrence but it is hard to make meanigful conclusions alone bassed on this information, there could be several outside factors that create this difference.  I would say by looking at this it gives me more research questions.  I belive these results fall into a corrolation vrs causation argument where I feel that this is a corrolation not exactly a causation and this is important.
+
+#D) Subject correlations
+
+Question: How strongly do the three subjects move together?
+
+Answer: I would say that they strongly move to one another, the heatmap lowest corrolation is above .80 and higest being 1.0.  Although at first this suprised me it quickly made sense people who score higher on one test would be more likely to score well on another especially with reading and writting since they kinda go hand and hand and my heat map shows this! you can also see that math has the lowest corrolation with the others becuase altough it is still high it has less corolation with reading/wirtting.  I think overall this shows me that that students overall who scores well on one exam also scored well on the others even though there are differnces in hwo trong that realationhsip is.
+
+#E) Math vs reading with trend lines by test prep
+
+a. Question: How strongly are math and reading scores associated, and do students who
+completed the test‑preparation course have a different slope in the math–reading
+relationship than those who did not?
+
+Answer:
