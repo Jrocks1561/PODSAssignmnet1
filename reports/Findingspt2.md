@@ -29,4 +29,4 @@ a. Question: How strongly are math and reading scores associated, and do student
 completed the test‑preparation course have a different slope in the math–reading
 relationship than those who did not?
 
-Answer:
+Answer: To begin with I do not like this graph for this question i think it is too noisy and not clear enough, I would rather have either did what we did above where we grouped the two socres together to see a trend or chosen to solve if mathmatically or maybe even try the two seprate boxplots again. I belive in class we said it should show a max of 3 diffent things this shows 4 and i think it is eaier for me to interpret because i made it.  That being said yes the scatterplot does show a corrolation as it appears the blue dots from "not completing" the tets prep go lower.  Meanwhile the organe for those who did "complete" it go higher and seem to group up more in the higher score range of like it looks like 75-80.
