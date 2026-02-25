@@ -15,4 +15,4 @@ Answer: So at first I wanted to use a scatterplot but then i thought that was si
 
 Question: Does lunch type (standard vs free/reduced) relate to outcomes?
 
-Answer: 
+Answer:  So yes it appears that after finding the mean of the three groups and then grouping it by free/reduces or standard lunches that there is a difference in scores. From it appears that students with standard lunch cost typical scored around 70 meanwhile students on free/reduced lunch score around 62. To me this tell us a diffrence but it is hard to make meanigful conclusions alone bassed on this information, there could be several outside factors that create this difference.  I would say by looking at this it gives me more research questions.  I belive these results fall into a corrolation vrs causation argument where I feel that this is a corrolation not exactly a causation and this is important.
