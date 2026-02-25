@@ -10,3 +10,9 @@ std       0.04            6.46          12.86          4.52                  0.5
 mean              0.20          0.60  
 median            0.00          1.00  
 std               0.42          0.52  
+
+
+#Correlation
+-0.4758668672668007
+As grip strength goes up this means that Fraility goes down. 
+The .47 indicates a moderate realationship
